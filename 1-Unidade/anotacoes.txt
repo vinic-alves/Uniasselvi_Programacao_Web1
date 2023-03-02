@@ -1,0 +1,4 @@
+comando de inicio do servidor
+
+start http://localhost/Uniasselvi_Programacao_Web1/ 
+
