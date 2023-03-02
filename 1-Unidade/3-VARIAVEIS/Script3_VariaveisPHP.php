@@ -14,21 +14,23 @@
 		?>
 		<br />
 		<h2>Variável String:</h2>
-		<?
+		<?php
 			/* Declara uma variável String */
 			$variavelString123 = "um, dois, três";
 			echo "<p>".$variavelString123."</p>";
 		?>
 		<br />
 		<h2>Variável Integer:</h2>
-		<?
+
+		<?php
 			/* Declara uma variável Intger */
 			$variavelInteger = 123;
 			echo "<p>".$variavelInteger."</p>";
 		?>
 		<br />
 		<h2>Variável Double:</h2>
-		<?
+
+		<?php
 			/* Declara uma variável Double */
 			$variaveldouble = 0.24;
 			echo "<p>".$variaveldouble."</p>";

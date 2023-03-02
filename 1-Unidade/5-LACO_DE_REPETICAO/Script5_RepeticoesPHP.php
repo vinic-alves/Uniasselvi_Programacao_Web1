@@ -5,7 +5,7 @@
 	<body>
 		<!-- Exemplo com While -->
 		<H1>While</h1>
-		<? Php
+		<?php
 			/* Demonstração de while em PHP
 			* O while recebe como parâmetro (entre parênteses)
 			* um valor booleano e permanece em looping até quanto
@@ -19,7 +19,7 @@
 		
 		<!-- Exemplo com For -->
 		<h1>For</h1>
-		<?
+		<?php
 			/* Demonstração de for em PHP
 			* O for recebe três parâmetros (entre parênteses
 			*, separados por ponto e vírgula (;))
@@ -27,8 +27,8 @@
 			* O segundo é um booleano que define até quando o 	looping será executado
 			* O terceiro é um incremento para o contador
 			*/
-			For ($contador = 1; $contador <= 10; $contador++){
-				Eco $contador."<br />";
+			for($contador = 1; $contador <= 10; $contador++){
+				echo $contador."<br/>";
 			}
 		?>
 	</body>

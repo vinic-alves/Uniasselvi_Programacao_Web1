@@ -1,4 +1,6 @@
 comando de inicio do servidor
 
-start http://localhost/Uniasselvi_Programacao_Web1/ 
+start http://localhost/Uniasselvi_Programacao_Web1/1-Unidade
+start http://localhost/Uniasselvi_Programacao_Web1/2-Unidade
+start http://localhost/Uniasselvi_Programacao_Web1/3-Unidade
 

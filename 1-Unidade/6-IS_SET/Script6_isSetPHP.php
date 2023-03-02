@@ -11,7 +11,7 @@
 				echo "A variável está declarada!";
 			} else {
 				echo "A variável não está declarada!"; //
-				aqui :-)
+				//aqui :-);
 			}
 		?>
 		<h1>A variável está declarada:</h1>
@@ -20,7 +20,7 @@
 			$variavel = "variável";
 			if (isset($variavel)){
 				echo "A variável está declarada!"; // aqui
-				:-)
+				//:-)
 			} else {
 				echo "A variável não está declarada!";
 			}
